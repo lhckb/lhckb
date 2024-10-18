@@ -7,3 +7,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhckb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Advanced Machine Learning](https://github-readme-stats.vercel.app/api/pin/?username=lhckb&repo=adv-ml-topics)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaggle Challenges](https://github-readme-stats.vercel.app/api/pin/?username=lhckb&repo=kaggle_challenges)](https://github.com/anuraghazra/github-readme-stats)
+[![C Projects](https://github-readme-stats.vercel.app/api/pin/?username=lhckb&repo=C-projects)](https://github.com/anuraghazra/github-readme-stats)
